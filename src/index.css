@@ -1,3 +1,5 @@
+@import-normalize;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +12,94 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: "SFPro_Black";
+  src: local("SFPro_Black"), url(./assets/fonts/sf-pro-display-Black.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Black_Italic";
+  src: local("SFPro_Black_Italic"), url(./assets/fonts/sf-pro-display-BlackItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Bold";
+  src: local("SFPro_Bold"), url(./assets/fonts/sf-pro-display-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Bold_Italic";
+  src: local("SFPro_Bold_Italic"), url(./assets/fonts/sf-pro-display-BoldItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Heavy";
+  src: local("SFPro_Heavy"), url(./assets/fonts/sf-pro-display-Heavy.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Heavy_Italic";
+  src: local("SFPro_Heavy_Italic"), url(./assets/fonts/sf-pro-display-HeavyItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Light";
+  src: local("SFPro_Light"), url(./assets/fonts/sf-pro-display-Light.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Light_Italic";
+  src: local("SFPro_Light_Italic"), url(./assets/fonts/sf-pro-display-LightItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Medium";
+  src: local("SFPro_Medium"), url(./assets/fonts/sf-pro-display-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Medium_Italic";
+  src: local("SFPro_Medium_Italic"), url(./assets/fonts/sf-pro-display-MediumItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Regular";
+  src: local("SFPro_Regular"), url(./assets/fonts/sf-pro-display-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Regular_Italic";
+  src: local("SFPro_Regular_Italic"), url(./assets/fonts/sf-pro-display-RegularItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Semibold";
+  src: local("SFPro_Semibold"), url(./assets/fonts/sf-pro-display-Semibold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Semibold_Italic";
+  src: local("SFPro_Semibold_Italic"), url(./assets/fonts/sf-pro-display-SemiboldItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Thin";
+  src: local("SFPro_Thin"), url(./assets/fonts/sf-pro-display-Thin.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Thin_Italic";
+  src: local("SFPro_Thin_Italic"), url(./assets/fonts/sf-pro-display-ThinItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Ultralight";
+  src: local("SFPro_Ultralight"), url(./assets/fonts/sf-pro-display-Ultralight.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "SFPro_Ultralight_Italic";
+  src: local("SFPro_Ultralight_Italic"), url(./assets/fonts/sf-pro-display-UltralightItalic.ttf) format("truetype");
 }
