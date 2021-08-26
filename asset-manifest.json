@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pro-promotion/static/css/main.395446fe.chunk.css",
+    "main.js": "/pro-promotion/static/js/main.59248470.chunk.js",
+    "main.js.map": "/pro-promotion/static/js/main.59248470.chunk.js.map",
+    "runtime-main.js": "/pro-promotion/static/js/runtime-main.eea5e9fd.js",
+    "runtime-main.js.map": "/pro-promotion/static/js/runtime-main.eea5e9fd.js.map",
+    "static/js/2.56704ec1.chunk.js": "/pro-promotion/static/js/2.56704ec1.chunk.js",
+    "static/js/2.56704ec1.chunk.js.map": "/pro-promotion/static/js/2.56704ec1.chunk.js.map",
+    "static/js/3.0a71fb86.chunk.js": "/pro-promotion/static/js/3.0a71fb86.chunk.js",
+    "static/js/3.0a71fb86.chunk.js.map": "/pro-promotion/static/js/3.0a71fb86.chunk.js.map",
+    "index.html": "/pro-promotion/index.html",
+    "static/css/main.395446fe.chunk.css.map": "/pro-promotion/static/css/main.395446fe.chunk.css.map",
+    "static/js/2.56704ec1.chunk.js.LICENSE.txt": "/pro-promotion/static/js/2.56704ec1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pro-promotion/static/media/sf-pro-display-UltralightItalic.4d0ef7b9.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea5e9fd.js",
+    "static/js/2.56704ec1.chunk.js",
+    "static/css/main.395446fe.chunk.css",
+    "static/js/main.59248470.chunk.js"
+  ]
+}
